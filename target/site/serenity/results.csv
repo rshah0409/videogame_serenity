@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Video game CRUD test with steps","This will create new videogame","SUCCESS","2021-07-21T14:24:23.065+01:00[Europe/London]","0.0","7.92"
+"Video game CRUD test with steps","This will get single videogame information","SUCCESS","2021-07-21T14:24:31.042+01:00[Europe/London]","0.0","0.77"
+"Video game CRUD test with steps","This will update Single videogame","SUCCESS","2021-07-21T14:24:31.820+01:00[Europe/London]","0.0","0.12"
+"Video game CRUD test with steps","This will delete videogame by id","SUCCESS","2021-07-21T14:24:31.944+01:00[Europe/London]","0.0","0.2"

@@ -1,0 +1,3 @@
+com\videogame\AppTest.class
+com\videogame\testbase\TestBase.class
+com\videogame\videogameinfo\VideoGameCRUDTestWithSteps.class
